@@ -5,6 +5,7 @@
 - 💪🏼 In my job I develop a pretty advanced in-house financial mamagement system, being a part of very kind, but productive, international R&D team.
 - 📫 How to reach me - by maciej@top-project.com.pl or LinkedIn: https://www.linkedin.com/in/maciej-topolewski-643116a1/.
 - 😼 You'll see commits here mostly on weekends, as my Company uses competitive repository provider. If you'll like to talk about coding or anything else really 😄, don't hesitate to contact me on e-mail adress aforementioned! I don't bite, really. 😬
+- Also, I just like coding. 💁🏻‍♂️ I came from Consulting bussiness which, at some point, just felt like it isn't enough.
 
 <!---
 topi-chan/topi-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
