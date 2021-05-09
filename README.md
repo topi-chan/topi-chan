@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @topi-chan
 - 👀 I’m interested in Python, backend web development (Djano and AIOHTTP!) and #Data
-- 🌱 I’m currently learning how to write good tests 😅
+- 🌱 I’m currently learning how to write good tests 😅 and make a useful type hint
 - 💞️ I’m looking to collaborate on some cool and useful (!) project, preferably on libraries mentiones above, but it's not a necessity 
 - 📫 How to reach me - by maciej.topolewski@gmail.com
 
