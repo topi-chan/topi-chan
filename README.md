@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @topi-chan! Which is a nickname that my buddies gave me as a child 😅 combined with my 'guilty-please', but conscious love of anime girls. 😳😓💁🏻‍♂️
+- 👋 Hi, I’m @topi-chan! Which is a nickname that my buddies gave me as a child 😅 combined with my 'guilty-please' love of anime girls. 😳😓💁🏻‍♂️
 - 👀 I’m interested in Python, backend web development (Djano and AIOHTTP) and #Data.
-- 🌱 I’m currently learning how to write good tests 😅 and make a useful type hint.
+- 🌱 I’m currently learning how to write decent tests. 😅 
 - 💞️ I’m looking to collaborate on some cool and useful (!) projects, preferably on libraries mentioned above, but it's not a necessity. Hint: I try to be environmentally conscious, especially when it comes to wild animals. I have commercial job secured.
 - 💪🏼 In my job I develop a pretty advanced in-house financial mamagement system, being a part of very kind, but productive, international R&D team.
 - 📫 How to reach me - by maciej@top-project.com.pl or LinkedIn: https://www.linkedin.com/in/maciej-topolewski-643116a1/.
