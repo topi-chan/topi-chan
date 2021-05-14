@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @topi-chan! Which is a nickname that my buddies gave me as a child combined with my 'guilty-please' love of anime girls. 😳💁🏻‍♂️
+- 👋 Hi, I’m @topi-chan! Which is a nickname that my buddies gave me as a child 😳💁🏻‍♂️
 - 👀 I’m interested in Python, backend web development (Djano and AIOHTTP) and #Data.
 - 🌱 I’m currently learning how to write decent tests. 😅 
 - 💞️ I’m looking to collaborate on some cool and useful (!) projects, preferably on libraries mentioned above, but it's not a necessity. Hint: I try to be environmentally conscious, especially when it comes to wild animals. I have commercial job secured.
