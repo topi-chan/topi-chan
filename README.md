@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @topi-chan! Which is a nickname that my buddies gave me as a child. 😳💁🏻‍♂️ Joke, I just like anime.
-- 👀 I’m interested in Python, backend web development (Djano and AIOHTTP) and #Data.
-- 🌱 I’m currently learning how to write decent tests. 😅 
+- 👀 I’m interested in Python, backend web development (Djano, FastAPI and aiohttp) and Data.
+- 🌱 I’m currently learning cybersecurity stuff.
 - 💞️ I’m looking to collaborate on some cool and useful (!) projects, preferably on libraries mentioned above, but it's not a necessity. Hint: I try to be environmentally conscious, especially when it comes to wild animals. I have commercial job secured.
 - 📫 How to reach me - by maciej.topolewski@gmail.com or LinkedIn: https://www.linkedin.com/in/maciej-topolewski-643116a1/.
 - 😼 You'll see commits here rarely, as my Company uses inhouse repository, as well as a project in which I work as a volunteer after hours. If you'll like to talk about coding or anything else really 😄, don't hesitate to contact me on e-mail adress aforementioned! I don't bite, really. 😬
